@@ -4,4 +4,10 @@ http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorith
 
 http://learn.hackerearth.com/tutorials/
 
+http://www.algorithmist.com/index.php/Main_Page      ----     many of the algorithms have their implemenations in c++, java, etc.
+
+
+
+STLs tutorials
 http://www.sgi.com/tech/stl/
+http://www.eventhelix.com/realtimemantra/object_oriented/stl-tutorial.htm#.U7zcaxz5_o_
